@@ -9,7 +9,7 @@ import Repl from './components/Repl.vue'
 </script>
 <style >
 body{
-  margin:0;~
+  margin:0;
 }
 #app{
   height: 100vh;
